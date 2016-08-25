@@ -78,7 +78,7 @@ public class SimulatedBowling {
 		System.out.println(" //       ////////      //////////       //    ");
 		System.out.println(" //           /  //                    //      ");
 		System.out.println(" /////////////    //                //         ");
-		System.out.println("                   ////////////////            ");
+		System.out.println("                    ////////////////            ");
 		
 	}
 }
