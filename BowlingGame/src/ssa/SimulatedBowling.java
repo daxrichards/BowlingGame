@@ -59,7 +59,7 @@ public class SimulatedBowling {
 		
 		System.out.println("\n\n");
 		System.out.println("  YOU SCORED A  " +grandTotal + "! HAVE YOU CONSIDERED THE OLYMPICS??     ");       
-		System.out.println("           T             THUMBS UP CHAMP!!!\n                       ");       
+		System.out.println("                      THUMBS UP CHAMP!!!\n                       ");       
 		System.out.println("                        ////////////////       ");
 		System.out.println("                      //                //     ");
 		System.out.println("                    //                   //    ");
